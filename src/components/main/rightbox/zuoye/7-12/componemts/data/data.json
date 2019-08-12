@@ -1,0 +1,35 @@
+{
+  "danxuan": {
+    "title_num": "1.",
+    "title": "您对互联网的未来发展有什么看法？",
+    "title_type": "【单选】",
+    "choose_list": [
+      { "id": "1", "content": "没有看法" },
+      { "id": "2", "content": "我认为996应该尽早放弃" },
+      { "id": "3", "content": "互联网未来会成为主导世界的枢纽" }
+    ]
+  },
+  "duoxuan": {
+    "title_num": "2.",
+    "title": "您有哪些爱好？",
+    "title_type": "【多选】",
+    "choose_list": [
+      { "checkbox": false, "content": "一天吃5次主食" },
+      { "checkbox": false, "content": "不光吃5次主食还要喝8杯可乐" },
+      { "checkbox": false, "content": "除了5次主食8杯可乐还要吃半斤多的零食" },
+      {
+        "checkbox": false,
+        "content": "吃完上面的食物，打开朋友圈发一条减肥口号"
+      },
+      { "checkbox": false, "content": "素食主义" },
+      { "checkbox": false, "content": "热爱运动" },
+      { "checkbox": false, "content": "喜欢古典音乐" },
+      { "checkbox": false, "content": "喜欢看书，偶尔也写点东西" }
+    ]
+  },
+  "wenben": {
+    "title_num": "3.",
+    "title": "你认为当代年轻人应该持有怎么样的世界观、人生观、价值观？",
+    "title_type": "【问答】"
+  }
+}

@@ -1,0 +1,25 @@
+ul {
+  list-style: none;
+}
+.main {
+  display: flex;
+  width: 1080px;
+  justify-content: space-between;
+}
+.left {
+  width: 17%;
+  ul {
+    margin: 0;
+    padding: 10px;
+    margin-left: 10px;
+  }
+}
+.right {
+  width: 80%;
+  height: 300px;
+  border: 1px solid #f0eff0;
+  img {
+    width: 150px;
+    float: left;
+  }
+}

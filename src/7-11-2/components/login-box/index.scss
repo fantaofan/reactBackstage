@@ -1,0 +1,64 @@
+.form-label {
+  display: block;
+}
+.denglu {
+  border: 1px solid gray;
+  width: 400px;
+  padding: 30px;
+  margin: 20px auto;
+  input {
+    width: 50%;
+    height: 40px;
+    line-height: 40px;
+    display: block;
+    margin-top: 15px;
+  }
+  .zhu {
+    width: 50%;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 20px;
+    background: #85ce2f;
+    color: white;
+  }
+  .fu {
+    border: none;
+    background: none;
+    margin-left: 10px;
+  }
+  p {
+    span {
+      float: right;
+    }
+  }
+}
+.checkbox {
+  width: 50%;
+  display: block;
+  height: 40px;
+  line-height: 40px;
+  input {
+    float: left;
+    width: 25px;
+    height: 25px;
+    margin-top: 12px;
+    margin-right: 10px;
+  }
+}
+.login-box {
+  position: fixed;
+  top: 17%;
+  left: 35%;
+  opacity: 0.8;
+  background: #001529;
+  color: gray;
+  z-index: 5;
+}
+.zhezhao {
+  width: 1349px;
+  height: 625px;
+  background: black;
+  opacity: 0.7;
+  position: fixed;
+}

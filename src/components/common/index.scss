@@ -1,0 +1,15 @@
+.col {
+  margin-bottom: 15px;
+  background-color: #fff;
+  .col-header {
+    height: 42px;
+    line-height: 42px;
+    padding: 0 15px;
+    border-bottom: 1px solid #f6f6f6;
+    font-size: 14px;
+  }
+  .col-body {
+    padding: 10px 15px;
+    line-height: 24px;
+  }
+}
